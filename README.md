@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rishabh8210
+- 👋 Hi, I’m Rishabh Pandey
 - 👀 I’m interested in Learning New Things
 - 🌱 I’m currently learning Nothing.....(Exm time 😥)
 - 💞️ I’m looking to collaborate on Open source

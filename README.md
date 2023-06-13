@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rishabh Pandey
 - 👀 I’m interested in Learning New Things
-- 🌱 I’m currently learning Nothing.....(Exm time 😥)
+- 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on Open source
 <!-- - 📫 How to reach me  -->
 

@@ -2,8 +2,8 @@
 - 👀 I’m interested in Learning New Things
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on Open source
-- 🥹 New Project Droping soon.
-
+- 🥹 New Project Droping soon.<br><br>
+![](https://komarev.com/ghpvc/?username=Rishabh8210&color=green)
 <!-- - 📫 How to reach me  -->
 
 <!---

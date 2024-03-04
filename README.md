@@ -23,14 +23,9 @@
 
 
 ### ⚡ Github Stats
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh8210&theme=radical&layout=compact&hide=Jupyter%20Notebook&langs_count=8"  display=block height=190 width=100% align="center" alt="1"></td>
-   </tr>
 
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishabh8210&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td>
-   </tr>      
-</table>
+![Rishabh8210's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishabh8210&theme=radical&hide_border=false)
+![Rishabh8210's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh8210&theme=radical&show_icons=true&hide_border=false&layout=compact)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishabh8210&theme=solarized_dark"  display=block width=100% height=auto alt="1">
 
 

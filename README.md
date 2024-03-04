@@ -1,12 +1,11 @@
 <h1 align="center">Hello There, I'm Rishabh 👋</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rishabh8210&color=green" /> </p>
-<div style="display:inline-flex; justify-content: center; align-items: center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-412?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-pandey-834964222/)
 [![Gmail](https://img.shields.io/badge/Gmail-322?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhpandey8092@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-1DA?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rishabhpandey801)
 [![leetcode](https://img.shields.io/badge/leetcode-1DA1F2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Rishabh_Pandey/)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ig_righ_abh_)
-</div>
 
 
 

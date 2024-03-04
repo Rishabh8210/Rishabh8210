@@ -25,7 +25,6 @@
 ### ⚡ Github Stats
 
 ![Rishabh8210's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishabh8210&theme=radical&hide_border=false)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishabh8210&theme=algolia)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishabh8210&theme=bear)
 
 

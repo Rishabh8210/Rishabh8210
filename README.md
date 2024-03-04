@@ -13,7 +13,7 @@
 ### I am a Software Dev pursuing my Undergrad 
 
 - 🔭 I’m currently working on various projects and myself.
-- 🌱 I’m an mobile developer and an avid competitive programmer.
+- 👀 I’m interested in Learning New Things
 - 👯 I’m looking to collaborate on projects.
 - 📫 How to reach me: [Let's Connect here!](https://www.linkedin.com/in/rishabh-pandey-834964222/)
 

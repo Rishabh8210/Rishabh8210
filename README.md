@@ -1,5 +1,5 @@
 <h1 align="center">Hello There, I'm Rishabh 👋</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rishabh8210&color=green" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rishabh8210&color=bluegreen" /> </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-412?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-pandey-834964222/)
 [![Gmail](https://img.shields.io/badge/Gmail-322?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhpandey8092@gmail.com)

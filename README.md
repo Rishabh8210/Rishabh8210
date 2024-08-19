@@ -1,7 +1,7 @@
 <h1 align="center">Hello There, I'm Rishabh 👋</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rishabh8210&color=blueviolet" /> </p>
 
-[![Resume](https://img.shields.io/badge/Resume-290?style=for-the-badge&logo=Resume&logoColor=white)](https://drive.google.com/file/d/1YVNO0JOhbzuhErZqDPvWKIq5d7O5C5MQ/view)
+[![Resume](https://img.shields.io/badge/Resume-290?style=for-the-badge&logo=Resume&logoColor=white)](https://drive.google.com/file/d/1j5x_A6uZpVoSfFts1OSVnpCevHWIQP7V/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-412?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-pandey-834964222/)
 [![Gmail](https://img.shields.io/badge/Gmail-322?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhpandey8092@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-1DA?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rishabhpandey801)
